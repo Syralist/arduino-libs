@@ -1,0 +1,24 @@
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = https://github.com/adafruit/Adafruit-GFX-Library.git
+[submodule "Adafruit_ILI9340"]
+	path = Adafruit_ILI9340
+	url = https://github.com/adafruit/Adafruit_ILI9340.git
+[submodule "Adafruit_ILI9341"]
+	path = Adafruit_ILI9341
+	url = https://github.com/adafruit/Adafruit_ILI9341.git
+[submodule "Adafruit_NeoMatrix"]
+	path = Adafruit_NeoMatrix
+	url = https://github.com/adafruit/Adafruit_NeoMatrix.git
+[submodule "Adafruit_NeoPixel"]
+	path = Adafruit_NeoPixel
+	url = https://github.com/adafruit/Adafruit_NeoPixel.git
+[submodule "DCF77"]
+	path = DCF77
+	url = https://github.com/thijse/Arduino-DCF77.git
+[submodule "TFT_22_ILI9225"]
+	path = TFT_22_ILI9225
+	url = https://github.com/Nkawu/TFT_22_ILI9225.git
+[submodule "Timezone"]
+	path = Timezone
+	url = https://github.com/JChristensen/Timezone.git
